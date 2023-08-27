@@ -1,0 +1,36 @@
+{
+  "name": "@mindscript/train",
+  "version": "0.0.1",
+  "description": "Train MindScript models with ease using this training library.",
+  "main": "train.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindlearn/train.git"
+  },
+  "keywords": [
+    "train",
+    "ai",
+    "mindscript",
+    "machine-learning",
+    "ai-model",
+    "models",
+    "model-training",
+    "training"
+  ],
+  "author": "MindLearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindlearn/train/issues"
+  },
+  "homepage": "https://github.com/mindlearn/train#readme",
+  "dependencies": {
+    "@mindlearn/tokenizer": "^0.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
